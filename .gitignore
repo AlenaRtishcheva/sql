@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Rtishcheva_AS_HW_1.pdf
 
 # C extensions
 *.so
