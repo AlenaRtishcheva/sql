@@ -1,0 +1,398 @@
+"product_version_id","product_id","brand","product_line","product_class","product_size","list_price","standard_cost"
+1,0,"","","","",1678.51,
+2,81,Solex,Standard,medium,medium,1151.96,649.49
+3,45,Trek Bicycles,Road,low,medium,980.37,234.43
+4,58,OHM Cycles,Standard,medium,medium,912.52,141.40
+5,0,"","","","",2061.38,
+6,0,"","","","",330.36,
+7,0,"","","","",890.28,
+8,73,Solex,Standard,medium,medium,1945.43,333.18
+9,0,"","","","",1562.88,
+10,0,"","","","",1202.34,
+11,41,Norco Bicycles,Standard,low,medium,958.74,748.90
+12,74,WeareA2B,Standard,medium,medium,1228.07,400.91
+13,0,OHM Cycles,Road,medium,medium,742.54,667.40
+14,5,Giant Bicycles,Standard,high,medium,1129.13,677.48
+15,0,"","","","",1999.54,
+16,41,Solex,Road,medium,medium,416.98,312.74
+17,0,"","","","",294.35,
+18,0,"","","","",149.30,
+19,0,"","","","",205.84,
+20,0,"","","","",483.12,
+21,66,Solex,Standard,medium,medium,1163.89,589.27
+22,79,Solex,Touring,medium,large,2083.94,675.03
+23,0,"","","","",2028.26,
+24,0,"","","","",1438.90,
+25,53,OHM Cycles,Standard,medium,medium,795.34,101.58
+26,0,"","","","",1776.08,
+27,37,OHM Cycles,Standard,low,medium,1793.43,248.82
+28,0,"","","","",1224.41,
+29,0,"","","","",162.87,
+30,0,"","","","",226.94,
+31,53,Giant Bicycles,Standard,high,medium,1274.93,764.96
+32,0,"","","","",753.76,
+33,0,Solex,Standard,medium,medium,478.16,298.72
+34,34,WeareA2B,Standard,medium,medium,1231.15,161.60
+35,81,Norco Bicycles,Standard,medium,small,586.45,521.94
+36,61,Norco Bicycles,Standard,medium,small,586.45,521.94
+37,0,"","","","",1535.84,
+38,0,"","","","",1281.60,
+39,0,"","","","",1473.09,
+40,0,"","","","",813.60,
+41,93,OHM Cycles,Standard,high,medium,1458.17,874.90
+42,0,"","","","",1788.93,
+43,0,"","","","",74.89,
+44,25,OHM Cycles,Standard,high,medium,2005.66,1203.40
+45,71,Solex,Standard,high,large,1842.92,1105.75
+46,27,Trek Bicycles,Standard,medium,medium,499.53,388.72
+47,0,"","","","",1233.12,
+48,65,WeareA2B,Standard,medium,medium,1807.45,778.69
+49,0,"","","","",687.90,
+50,100,Norco Bicycles,Road,medium,medium,1036.59,206.35
+51,0,"","","","",101.55,
+52,49,Solex,Standard,medium,large,1061.56,733.58
+53,0,"","","","",922.15,
+54,0,"","","","",317.30,
+55,22,Solex,Standard,medium,medium,575.27,431.45
+56,0,"","","","",1216.40,
+57,96,Giant Bicycles,Standard,medium,large,1635.30,993.66
+58,0,Norco Bicycles,Standard,medium,medium,360.40,270.30
+59,85,WeareA2B,Standard,medium,medium,752.64,205.36
+60,76,WeareA2B,Standard,low,medium,642.31,513.85
+61,0,"","","","",16.08,
+62,0,"","","","",1102.68,
+63,33,OHM Cycles,Road,medium,small,1810.00,1610.90
+64,48,WeareA2B,Standard,medium,medium,1762.96,950.52
+65,0,OHM Cycles,Standard,low,medium,71.16,56.93
+66,0,"","","","",26.15,
+67,0,"","","","",240.72,
+68,0,"","","","",1023.39,
+69,0,Solex,Standard,medium,medium,100.35,75.26
+70,0,"","","","",675.28,
+71,0,"","","","",1997.68,
+72,12,WeareA2B,Standard,medium,medium,1231.15,161.60
+73,32,Giant Bicycles,Standard,medium,medium,642.70,211.37
+74,0,"","","","",310.57,
+75,19,Trek Bicycles,Mountain,low,medium,574.64,459.71
+76,58,OHM Cycles,Road,medium,medium,1280.28,829.51
+77,0,"","","","",1220.66,
+78,60,Giant Bicycles,Standard,high,small,1977.36,1759.85
+79,0,"","","","",311.57,
+80,0,"","","","",966.91,
+81,0,"","","","",1660.68,
+82,57,WeareA2B,Touring,medium,large,1890.39,260.14
+83,0,"","","","",1571.83,
+84,0,"","","","",1989.30,
+85,90,Norco Bicycles,Standard,low,medium,363.01,290.41
+86,0,"","","","",1734.30,
+87,92,WeareA2B,Standard,medium,small,1415.01,1259.36
+88,12,Giant Bicycles,Standard,medium,large,1765.30,709.48
+89,7,Trek Bicycles,Road,low,medium,980.37,234.43
+90,0,"","","","",1972.01,
+91,0,"","","","",1678.71,
+92,0,"","","","",172.09,
+93,25,Giant Bicycles,Road,medium,medium,1538.99,829.65
+94,0,"","","","",1617.32,
+95,6,Solex,Standard,high,medium,748.17,448.90
+96,0,"","","","",1095.66,
+97,0,OHM Cycles,Standard,medium,medium,183.86,137.90
+98,0,"","","","",1740.16,
+99,0,"","","","",1703.18,
+100,66,Giant Bicycles,Road,low,small,590.26,525.33
+101,8,Solex,Road,medium,small,1703.52,1516.13
+102,0,"","","","",1150.59,
+103,0,"","","","",489.58,
+104,0,WeareA2B,Standard,medium,medium,60.34,45.26
+105,18,Solex,Standard,medium,medium,575.27,431.45
+106,0,"","","","",494.96,
+107,56,OHM Cycles,Standard,medium,medium,183.86,137.90
+108,0,Norco Bicycles,Road,medium,medium,543.39,407.54
+109,30,OHM Cycles,Standard,medium,medium,1227.34,770.89
+110,100,Trek Bicycles,Standard,medium,small,1386.84,1234.29
+111,64,Trek Bicycles,Standard,medium,large,1469.44,596.55
+112,0,"","","","",1958.34,
+113,86,OHM Cycles,Standard,medium,medium,235.63,125.07
+114,0,"","","","",1888.45,
+115,10,WeareA2B,Touring,medium,medium,1466.68,363.25
+116,0,"","","","",1349.47,
+117,0,"","","","",1294.37,
+118,0,"","","","",753.01,
+119,0,"","","","",1527.25,
+120,2,Solex,Standard,medium,medium,71.49,53.62
+121,0,"","","","",437.51,
+122,0,"","","","",571.27,
+123,91,Solex,Standard,medium,medium,100.35,75.26
+124,0,"","","","",1196.65,
+125,64,Giant Bicycles,Standard,high,small,1977.36,1759.85
+126,0,"","","","",1223.24,
+127,0,"","","","",1672.07,
+128,0,"","","","",731.41,
+129,0,"","","","",1294.66,
+130,0,"","","","",2062.95,
+131,0,"","","","",1148.41,
+132,15,Norco Bicycles,Standard,low,medium,958.74,748.90
+133,0,"","","","",1695.42,
+134,0,"","","","",850.00,
+135,98,OHM Cycles,Standard,medium,medium,795.34,101.58
+136,75,Giant Bicycles,Touring,medium,large,1873.97,863.95
+137,0,"","","","",1502.93,
+138,28,Solex,Road,medium,small,1703.52,1516.13
+139,50,Giant Bicycles,Standard,medium,medium,642.70,211.37
+140,0,"","","","",1689.63,
+141,0,"","","","",840.02,
+142,89,Giant Bicycles,Standard,medium,large,1812.75,582.48
+143,0,"","","","",605.54,
+144,1,Giant Bicycles,Standard,medium,medium,1403.50,954.82
+145,87,Giant Bicycles,Standard,high,medium,1179.00,707.40
+146,0,Trek Bicycles,Standard,medium,medium,499.53,388.72
+147,0,"","","","",1615.62,
+148,0,"","","","",899.92,
+149,11,Trek Bicycles,Standard,medium,small,1775.81,1580.47
+150,0,"","","","",1862.82,
+151,0,"","","","",1315.16,
+152,0,"","","","",1292.13,
+153,32,Giant Bicycles,Standard,high,medium,1179.00,707.40
+154,0,"","","","",1487.80,
+155,36,Solex,Standard,low,medium,1289.85,74.51
+156,56,Norco Bicycles,Mountain,low,small,688.63,612.88
+157,91,WeareA2B,Standard,low,medium,642.31,513.85
+158,0,"","","","",56.21,
+159,0,"","","","",1401.63,
+160,0,"","","","",1021.43,
+161,54,WeareA2B,Standard,medium,medium,1292.84,13.44
+162,63,WeareA2B,Standard,medium,medium,1992.93,762.63
+163,0,"","","","",880.30,
+164,0,"","","","",1578.52,
+165,0,"","","","",356.05,
+166,0,"","","","",1978.64,
+167,0,"","","","",1761.75,
+168,78,Giant Bicycles,Standard,medium,large,1765.30,709.48
+169,0,"","","","",150.51,
+170,51,OHM Cycles,Standard,high,medium,2005.66,1203.40
+171,0,"","","","",1880.40,
+172,77,WeareA2B,Standard,medium,medium,1769.64,108.76
+173,0,"","","","",156.56,
+174,0,"","","","",1193.44,
+175,35,Giant Bicycles,Standard,medium,medium,1403.50,954.82
+176,35,Trek Bicycles,Standard,low,medium,1057.51,154.40
+177,0,"","","","",1413.98,
+178,0,"","","","",366.22,
+179,67,Norco Bicycles,Road,medium,medium,544.05,376.84
+180,28,Norco Bicycles,Standard,medium,small,1216.14,1082.36
+181,0,"","","","",710.55,
+182,0,"","","","",1833.17,
+183,0,"","","","",1098.18,
+184,0,Solex,Standard,medium,medium,441.49,84.99
+185,0,"","","","",758.73,
+186,15,WeareA2B,Standard,medium,medium,1292.84,13.44
+187,16,Norco Bicycles,Standard,high,small,1661.92,1479.11
+188,0,"","","","",1476.88,
+189,11,Giant Bicycles,Standard,high,medium,1274.93,764.96
+190,22,WeareA2B,Standard,medium,medium,60.34,45.26
+191,0,"","","","",1034.17,
+192,0,"","","","",1095.65,
+193,0,"","","","",883.91,
+194,1,Giant Bicycles,Touring,medium,large,1873.97,863.95
+195,85,WeareA2B,Standard,medium,medium,1228.07,400.91
+196,21,WeareA2B,Touring,medium,medium,1466.68,363.25
+197,0,"","","","",32.44,
+198,0,"","","","",1084.18,
+199,0,"","","","",1409.68,
+200,0,OHM Cycles,Standard,medium,medium,235.63,125.07
+201,0,Giant Bicycles,Standard,medium,medium,230.91,173.18
+202,30,Solex,Standard,high,medium,748.17,448.90
+203,0,"","","","",587.02,
+204,0,"","","","",2037.77,
+205,0,"","","","",517.53,
+206,0,"","","","",2020.14,
+207,90,Solex,Standard,low,medium,945.04,507.58
+208,0,"","","","",868.56,
+209,0,"","","","",2086.07,
+210,44,WeareA2B,Standard,medium,medium,1769.64,108.76
+211,0,"","","","",237.44,
+212,27,Trek Bicycles,Standard,low,medium,1057.51,154.40
+213,49,Trek Bicycles,Road,medium,medium,533.51,400.13
+214,52,OHM Cycles,Road,medium,medium,1280.28,829.51
+215,0,"","","","",750.25,
+216,23,Norco Bicycles,Standard,medium,medium,1198.46,381.10
+217,0,"","","","",877.60,
+218,0,"","","","",756.31,
+219,0,"","","","",899.52,
+220,50,WeareA2B,Standard,medium,small,175.89,131.92
+221,0,"","","","",1392.76,
+222,80,Trek Bicycles,Standard,medium,large,1469.44,596.55
+223,0,"","","","",1919.23,
+224,70,Trek Bicycles,Standard,high,medium,495.72,297.43
+225,0,"","","","",1711.35,
+226,0,"","","","",1163.77,
+227,4,Giant Bicycles,Standard,high,medium,1129.13,677.48
+228,17,Solex,Standard,high,medium,1024.66,614.80
+229,42,OHM Cycles,Road,medium,small,1810.00,1610.90
+230,29,Norco Bicycles,Road,medium,medium,543.39,407.54
+231,0,"","","","",36.78,
+232,0,Solex,Standard,medium,large,202.62,151.96
+233,0,"","","","",850.89,
+234,0,"","","","",724.37,
+235,0,"","","","",1709.26,
+236,0,"","","","",1480.76,
+237,0,"","","","",1029.36,
+238,89,WeareA2B,Touring,medium,large,1362.99,57.74
+239,0,"","","","",638.29,
+240,0,"","","","",356.39,
+241,0,"","","","",1300.96,
+242,13,Solex,Standard,medium,medium,1577.53,826.51
+243,0,"","","","",1181.89,
+244,0,"","","","",877.44,
+245,96,WeareA2B,Road,low,small,1172.78,1043.77
+246,0,"","","","",1697.27,
+247,0,"","","","",402.14,
+248,9,OHM Cycles,Road,medium,medium,742.54,667.40
+249,43,Norco Bicycles,Standard,medium,medium,1555.58,818.01
+250,86,Norco Bicycles,Road,high,large,774.53,464.72
+251,0,Trek Bicycles,Road,medium,medium,533.51,400.13
+252,80,OHM Cycles,Touring,low,medium,1073.07,933.84
+253,0,"","","","",2052.92,
+254,83,Solex,Touring,medium,large,2083.94,675.03
+255,94,Giant Bicycles,Standard,medium,large,1635.30,993.66
+256,74,WeareA2B,Standard,medium,medium,1762.96,950.52
+257,0,WeareA2B,Standard,medium,small,175.89,131.92
+258,7,Giant Bicycles,Standard,medium,small,1311.44,1167.18
+259,0,"","","","",554.38,
+260,0,"","","","",465.71,
+261,88,Norco Bicycles,Standard,high,small,1661.92,1479.11
+262,61,OHM Cycles,Standard,low,medium,71.16,56.93
+263,0,"","","","",867.92,
+264,17,WeareA2B,Touring,medium,large,1362.99,57.74
+265,79,Norco Bicycles,Standard,medium,medium,1555.58,818.01
+266,0,"","","","",1624.69,
+267,0,"","","","",889.05,
+268,95,Giant Bicycles,Standard,medium,large,569.56,528.43
+269,97,Solex,Standard,medium,large,202.62,151.96
+270,68,OHM Cycles,Standard,medium,medium,1636.90,44.71
+271,0,"","","","",1142.89,
+272,40,Trek Bicycles,Road,medium,large,1894.19,598.76
+273,0,"","","","",1199.26,
+274,70,Norco Bicycles,Road,medium,medium,1036.59,206.35
+275,0,"","","","",752.36,
+276,0,"","","","",122.74,
+277,0,"","","","",1817.13,
+278,0,"","","","",126.36,
+279,0,Giant Bicycles,Standard,medium,large,569.56,528.43
+280,0,"","","","",1922.94,
+281,76,WeareA2B,Road,low,small,1172.78,1043.77
+282,99,Trek Bicycles,Road,low,small,1720.70,1531.42
+283,0,"","","","",1099.68,
+284,0,"","","","",1541.10,
+285,0,"","","","",447.25,
+286,38,Trek Bicycles,Standard,medium,large,2091.47,388.92
+287,0,"","","","",1107.08,
+288,31,Giant Bicycles,Standard,medium,medium,230.91,173.18
+289,29,WeareA2B,Standard,medium,medium,1065.03,230.09
+290,18,Norco Bicycles,Standard,high,medium,1148.64,689.18
+291,46,Solex,Standard,low,medium,1289.85,74.51
+292,13,Solex,Standard,medium,medium,1163.89,589.27
+293,0,Norco Bicycles,Road,medium,medium,544.05,376.84
+294,0,"","","","",1348.41,
+295,67,Solex,Standard,medium,large,1071.23,380.74
+296,0,"","","","",678.25,
+297,0,Trek Bicycles,Standard,high,medium,358.39,215.03
+298,47,Trek Bicycles,Road,low,small,1720.70,1531.42
+299,0,"","","","",1563.94,
+300,33,Giant Bicycles,Standard,medium,small,1311.44,1167.18
+301,0,"","","","",326.86,
+302,97,OHM Cycles,Road,medium,medium,742.54,667.40
+303,40,OHM Cycles,Standard,high,medium,1458.17,874.90
+304,43,Solex,Standard,medium,medium,1151.96,649.49
+305,82,Norco Bicycles,Standard,high,medium,1148.64,689.18
+306,84,Giant Bicycles,Road,medium,medium,792.90,594.68
+307,0,"","","","",1541.62,
+308,19,OHM Cycles,Road,high,large,12.01,7.21
+309,0,"","","","",1759.30,
+310,69,Norco Bicycles,Road,medium,large,1240.31,795.10
+311,9,Norco Bicycles,Standard,medium,small,1216.14,1082.36
+312,45,Solex,Standard,medium,medium,441.49,84.99
+313,0,"","","","",405.94,
+314,31,WeareA2B,Standard,medium,medium,752.64,205.36
+315,0,"","","","",1957.87,
+316,0,"","","","",398.08,
+317,0,"","","","",1942.61,
+318,0,"","","","",1719.95,
+319,52,Solex,Road,medium,large,1777.80,820.78
+320,0,Norco Bicycles,Standard,low,medium,363.01,290.41
+321,36,Solex,Standard,low,medium,945.04,507.58
+322,0,"","","","",1780.22,
+323,0,"","","","",960.51,
+324,0,Trek Bicycles,Road,medium,medium,290.62,215.14
+325,14,Trek Bicycles,Standard,medium,small,1386.84,1234.29
+326,0,Solex,Road,medium,medium,416.98,312.74
+327,2,Giant Bicycles,Road,low,small,590.26,525.33
+328,21,Solex,Standard,medium,large,1071.23,380.74
+329,54,WeareA2B,Standard,medium,medium,1807.45,778.69
+330,63,Solex,Standard,medium,medium,1483.20,99.59
+331,26,WeareA2B,Standard,medium,medium,1992.93,762.63
+332,99,OHM Cycles,Standard,medium,medium,1227.34,770.89
+333,0,"","","","",435.66,
+334,55,Trek Bicycles,Road,medium,large,1894.19,598.76
+335,34,Norco Bicycles,Road,high,large,774.53,464.72
+336,0,Trek Bicycles,Standard,high,medium,495.72,297.43
+337,82,Giant Bicycles,Road,medium,medium,1538.99,829.65
+338,72,Norco Bicycles,Standard,medium,medium,360.40,270.30
+339,0,"","","","",2064.08,
+340,6,OHM Cycles,Standard,high,medium,227.88,136.73
+341,88,Norco Bicycles,Standard,medium,medium,1198.46,381.10
+342,4,Solex,Standard,medium,medium,1483.20,99.59
+343,59,WeareA2B,Standard,medium,small,1415.01,1259.36
+344,72,OHM Cycles,Standard,medium,medium,912.52,141.40
+345,0,"","","","",1374.20,
+346,0,"","","","",487.80,
+347,38,Solex,Standard,medium,medium,1577.53,826.51
+348,46,OHM Cycles,Standard,low,medium,1793.43,248.82
+349,0,"","","","",639.38,
+350,20,Trek Bicycles,Standard,medium,small,1775.81,1580.47
+351,3,Trek Bicycles,Standard,medium,large,2091.47,388.92
+352,0,"","","","",1026.70,
+353,39,Giant Bicycles,Standard,medium,large,1812.75,582.48
+354,0,"","","","",470.07,
+355,0,"","","","",541.44,
+356,0,"","","","",710.59,
+357,0,"","","","",2076.81,
+358,0,"","","","",634.57,
+359,0,"","","","",1656.86,
+360,0,"","","","",875.99,
+361,23,Norco Bicycles,Mountain,low,small,688.63,612.88
+362,0,"","","","",1184.00,
+363,0,"","","","",1285.47,
+364,62,Solex,Standard,medium,medium,478.16,298.72
+365,0,OHM Cycles,Road,high,large,12.01,7.21
+366,0,Solex,Standard,medium,medium,71.49,53.62
+367,0,"","","","",2012.84,
+368,0,"","","","",1790.31,
+369,0,"","","","",1934.41,
+370,0,"","","","",814.86,
+371,0,"","","","",1497.43,
+372,0,"","","","",918.43,
+373,0,"","","","",330.91,
+374,0,"","","","",1061.92,
+375,0,"","","","",643.95,
+376,0,"","","","",1091.51,
+377,98,Trek Bicycles,Standard,high,medium,358.39,215.03
+378,92,WeareA2B,Touring,medium,large,1890.39,260.14
+379,77,Norco Bicycles,Road,medium,large,1240.31,795.10
+380,69,Giant Bicycles,Road,medium,medium,792.90,594.68
+381,93,WeareA2B,Standard,medium,medium,1065.03,230.09
+382,0,"","","","",1146.42,
+383,24,Solex,Road,medium,large,1777.80,820.78
+384,0,"","","","",60.72,
+385,0,"","","","",1192.33,
+386,10,Solex,Standard,medium,medium,1945.43,333.18
+387,0,OHM Cycles,Standard,high,medium,227.88,136.73
+388,95,OHM Cycles,Touring,low,medium,1073.07,933.84
+389,0,"","","","",744.54,
+390,84,Trek Bicycles,Road,medium,medium,290.62,215.14
+391,0,"","","","",311.54,
+392,87,OHM Cycles,Standard,medium,medium,1636.90,44.71
+393,0,"","","","",695.23,
+394,62,Solex,Standard,high,medium,1024.66,614.80
+395,5,Trek Bicycles,Mountain,low,medium,574.64,459.71
+396,59,Solex,Standard,medium,large,1061.56,733.58
+397,14,Solex,Standard,high,large,1842.92,1105.75

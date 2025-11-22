@@ -1,0 +1,1050 @@
+"job_industry_category_id","industry_name","job_title"
+1,Health,GIS Technical Architect
+2,IT,Software Consultant
+3,n/a,Senior Editor
+4,Retail,Sales Representative
+5,Telecommunications,Senior Developer
+6,Property,Statistician I
+7,Financial Services,Administrative Assistant II
+8,Entertainment,Research Associate
+9,IT,Account Coordinator
+10,Argiculture,Programmer III
+11,Manufacturing,Budget/Accounting Analyst IV
+12,IT,Budget/Accounting Analyst III
+13,Financial Services,Analyst Programmer
+14,Financial Services,VP Product Management
+15,Financial Services,VP Accounting
+16,Manufacturing,Technical Writer
+17,Manufacturing,Chief Design Engineer
+18,Property,Computer Systems Analyst II
+19,Health,Geologist III
+20,Property,Systems Administrator II
+21,Manufacturing,Associate Professor
+22,Manufacturing,Nuclear Power Engineer
+23,Manufacturing,Systems Administrator IV
+24,Financial Services,Staff Accountant II
+25,IT,Technical Writer
+26,Retail,Media Manager I
+27,Manufacturing,Human Resources Assistant IV
+28,Manufacturing,Assistant Manager
+29,Health,Occupational Therapist
+30,Manufacturing,Internal Auditor
+31,Health,Mechanical Systems Engineer
+32,n/a,Office Assistant IV
+33,Health,Chief Design Engineer
+34,Health,Accountant I
+35,Retail,Accountant I
+36,Argiculture,Biostatistician IV
+37,Telecommunications,Staff Accountant III
+38,Property,Desktop Support Technician
+39,Manufacturing,Account Coordinator
+40,Property,Accountant II
+41,Manufacturing,Environmental Tech
+42,n/a,Budget/Accounting Analyst III
+43,Telecommunications,Business Systems Development Analyst
+44,Health,Health Coach I
+45,Entertainment,Accountant II
+46,Manufacturing,Software Engineer I
+47,Retail,Web Designer II
+48,Argiculture,Account Representative IV
+49,Retail,Software Consultant
+50,IT,Office Assistant II
+51,Retail,Physical Therapy Assistant
+52,n/a,Web Developer III
+53,n/a,Budget/Accounting Analyst I
+54,Property,Human Resources Assistant III
+55,IT,Mechanical Systems Engineer
+56,Entertainment,Automation Specialist II
+57,Financial Services,Software Engineer II
+58,Retail,Junior Executive
+59,IT,Data Coordiator
+60,IT,Professor
+61,Property,Project Manager
+62,Health,Account Representative I
+63,Entertainment,VP Marketing
+64,Health,Web Designer I
+65,Retail,Accounting Assistant I
+66,Telecommunications,GIS Technical Architect
+67,n/a,Account Coordinator
+68,Property,Help Desk Technician
+69,Financial Services,Programmer Analyst I
+70,Argiculture,Administrative Officer
+71,n/a,Account Representative IV
+72,Property,Senior Sales Associate
+73,Health,Director of Sales
+74,Property,Administrative Officer
+75,Manufacturing,Statistician I
+76,Health,Health Coach IV
+77,n/a,Biostatistician II
+78,Telecommunications,Teacher
+79,Manufacturing,Web Developer IV
+80,Financial Services,Staff Accountant III
+81,IT,Assistant Manager
+82,Financial Services,Statistician I
+83,Property,Account Representative III
+84,Entertainment,Software Consultant
+85,Property,Data Coordiator
+86,Manufacturing,Recruiter
+87,Health,Senior Developer
+88,Manufacturing,Web Designer I
+89,IT,Recruiter
+90,Financial Services,Sales Associate
+91,Telecommunications,Administrative Assistant IV
+92,Health,Software Engineer IV
+93,Health,Sales Associate
+94,Telecommunications,Recruiter
+95,Manufacturing,Accounting Assistant II
+96,n/a,Professor
+97,Retail,Structural Analysis Engineer
+98,Manufacturing,Administrative Assistant III
+99,Property,Community Outreach Specialist
+100,n/a,VP Sales
+101,Health,Health Coach III
+102,n/a,Computer Systems Analyst II
+103,Property,Accountant I
+104,Health,Computer Systems Analyst II
+105,Health,Desktop Support Technician
+106,n/a,Computer Systems Analyst I
+107,Financial Services,Financial Advisor
+108,n/a,Marketing Assistant
+109,n/a,Engineer IV
+110,Financial Services,Human Resources Assistant III
+111,Entertainment,Accounting Assistant III
+112,Argiculture,Safety Technician III
+113,Health,Budget/Accounting Analyst IV
+114,Health,Database Administrator III
+115,Argiculture,Senior Sales Associate
+116,Entertainment,Senior Developer
+117,Retail,Senior Editor
+118,Entertainment,Nurse Practicioner
+119,n/a,Office Assistant I
+120,n/a,Software Engineer IV
+121,n/a,Developer II
+122,IT,Software Engineer III
+123,Retail,Graphic Designer
+124,Manufacturing,Database Administrator III
+125,Manufacturing,Budget/Accounting Analyst I
+126,Retail,Community Outreach Specialist
+127,Health,Research Assistant II
+128,Retail,Account Representative I
+129,Manufacturing,Recruiting Manager
+130,Entertainment,Programmer IV
+131,IT,VP Quality Control
+132,Retail,Statistician II
+133,Retail,Information Systems Manager
+134,n/a,Desktop Support Technician
+135,Entertainment,""
+136,Health,Human Resources Assistant II
+137,IT,Office Assistant I
+138,Health,Business Systems Development Analyst
+139,Financial Services,Programmer III
+140,n/a,Human Resources Assistant IV
+141,Retail,Internal Auditor
+142,Argiculture,Business Systems Development Analyst
+143,Manufacturing,Data Coordiator
+144,IT,Administrative Officer
+145,Manufacturing,Director of Sales
+146,Health,Clinical Specialist
+147,Retail,Human Resources Assistant III
+148,Telecommunications,Environmental Specialist
+149,n/a,Senior Quality Engineer
+150,n/a,Community Outreach Specialist
+151,Property,General Manager
+152,IT,Desktop Support Technician
+153,Retail,Software Test Engineer III
+154,Financial Services,Geologist IV
+155,Health,Nurse Practicioner
+156,Telecommunications,Software Engineer II
+157,n/a,Analog Circuit Design manager
+158,Argiculture,VP Quality Control
+159,Retail,Database Administrator III
+160,Property,Web Designer II
+161,Retail,Geologist IV
+162,Health,Biostatistician IV
+163,Manufacturing,VP Quality Control
+164,Manufacturing,Marketing Assistant
+165,Telecommunications,Project Manager
+166,Financial Services,Desktop Support Technician
+167,Retail,Speech Pathologist
+168,Entertainment,Environmental Specialist
+169,Financial Services,Software Consultant
+170,Manufacturing,Engineer IV
+171,IT,Programmer I
+172,Manufacturing,Biostatistician I
+173,Telecommunications,Data Coordiator
+174,Entertainment,Product Engineer
+175,n/a,Teacher
+176,Property,Biostatistician I
+177,Financial Services,Help Desk Operator
+178,Health,Human Resources Manager
+179,Health,Senior Quality Engineer
+180,Property,Computer Systems Analyst IV
+181,Telecommunications,Staff Accountant IV
+182,Manufacturing,Structural Analysis Engineer
+183,Health,Human Resources Assistant I
+184,IT,Assistant Professor
+185,Manufacturing,Budget/Accounting Analyst II
+186,n/a,Executive Secretary
+187,Financial Services,Administrative Assistant III
+188,Argiculture,Budget/Accounting Analyst I
+189,Argiculture,Senior Quality Engineer
+190,Argiculture,General Manager
+191,n/a,Structural Engineer
+192,Argiculture,Assistant Professor
+193,Financial Services,Senior Cost Accountant
+194,Retail,Assistant Manager
+195,n/a,Staff Accountant I
+196,Manufacturing,Safety Technician III
+197,n/a,Automation Specialist II
+198,Health,Budget/Accounting Analyst I
+199,Argiculture,Nurse Practicioner
+200,n/a,Human Resources Assistant I
+201,Entertainment,Data Coordiator
+202,Financial Services,Data Coordiator
+203,Health,Assistant Manager
+204,IT,Senior Developer
+205,IT,Sales Associate
+206,IT,Office Assistant IV
+207,Manufacturing,Research Associate
+208,Manufacturing,Web Designer III
+209,Manufacturing,Analog Circuit Design manager
+210,n/a,Web Developer II
+211,Financial Services,Research Associate
+212,Manufacturing,Software Engineer IV
+213,Telecommunications,Product Engineer
+214,Retail,Chief Design Engineer
+215,Property,Human Resources Assistant I
+216,Property,Database Administrator III
+217,Manufacturing,Product Engineer
+218,Property,Accounting Assistant III
+219,Health,Physical Therapy Assistant
+220,IT,Accountant I
+221,Property,Business Systems Development Analyst
+222,Financial Services,Senior Quality Engineer
+223,IT,Geologist IV
+224,Health,Junior Executive
+225,Financial Services,Structural Engineer
+226,Entertainment,Engineer IV
+227,Financial Services,Geologist I
+228,Manufacturing,Administrative Assistant IV
+229,IT,Geologist II
+230,n/a,Accountant I
+231,IT,Operator
+232,Health,Analyst Programmer
+233,n/a,Accounting Assistant II
+234,Health,General Manager
+235,Retail,Desktop Support Technician
+236,Financial Services,Senior Developer
+237,Health,Office Assistant I
+238,Property,Software Consultant
+239,n/a,Senior Developer
+240,n/a,Accounting Assistant IV
+241,Telecommunications,Help Desk Operator
+242,Financial Services,Marketing Manager
+243,Telecommunications,Nurse
+244,Argiculture,Tax Accountant
+245,Manufacturing,Senior Sales Associate
+246,n/a,VP Marketing
+247,Property,Safety Technician I
+248,Manufacturing,Statistician II
+249,Property,Structural Analysis Engineer
+250,Financial Services,Computer Systems Analyst I
+251,IT,Account Representative IV
+252,Entertainment,Geologist I
+253,Financial Services,Biostatistician I
+254,Retail,Nurse
+255,Telecommunications,Operator
+256,Financial Services,Recruiter
+257,n/a,Systems Administrator II
+258,Manufacturing,Accountant II
+259,n/a,Software Engineer II
+260,Financial Services,Human Resources Assistant II
+261,Financial Services,Associate Professor
+262,n/a,Product Engineer
+263,Argiculture,Administrative Assistant I
+264,Health,Dental Hygienist
+265,Health,Human Resources Assistant III
+266,Property,Mechanical Systems Engineer
+267,Financial Services,Systems Administrator I
+268,IT,Nurse Practicioner
+269,Financial Services,Environmental Specialist
+270,Financial Services,Administrative Officer
+271,Health,Help Desk Operator
+272,Argiculture,Biostatistician I
+273,Retail,Computer Systems Analyst IV
+274,n/a,Media Manager IV
+275,Health,Accounting Assistant III
+276,Health,Research Assistant I
+277,Health,Account Coordinator
+278,n/a,Staff Accountant IV
+279,Financial Services,Administrative Assistant IV
+280,Entertainment,Assistant Manager
+281,n/a,Programmer Analyst III
+282,Entertainment,Graphic Designer
+283,Health,Software Engineer II
+284,Retail,Help Desk Operator
+285,Argiculture,Research Assistant II
+286,Manufacturing,Automation Specialist III
+287,Retail,Account Executive
+288,Retail,VP Product Management
+289,Manufacturing,Geologist III
+290,Retail,Systems Administrator I
+291,Financial Services,Systems Administrator IV
+292,IT,Product Engineer
+293,Property,Quality Control Specialist
+294,Telecommunications,Quality Engineer
+295,Retail,Data Coordiator
+296,Telecommunications,General Manager
+297,IT,GIS Technical Architect
+298,Manufacturing,Biostatistician II
+299,Property,Web Designer IV
+300,Financial Services,Software Engineer I
+301,Manufacturing,Safety Technician I
+302,Property,Speech Pathologist
+303,Retail,Media Manager II
+304,Financial Services,Software Test Engineer II
+305,Financial Services,Structural Analysis Engineer
+306,Entertainment,Software Test Engineer III
+307,Retail,Statistician I
+308,Argiculture,Geologist II
+309,Financial Services,Quality Engineer
+310,IT,Programmer Analyst I
+311,Entertainment,Health Coach II
+312,Retail,Safety Technician I
+313,Retail,Mechanical Systems Engineer
+314,Health,Information Systems Manager
+315,Property,Software Test Engineer IV
+316,Entertainment,Geologist IV
+317,Manufacturing,Design Engineer
+318,Financial Services,Quality Control Specialist
+319,Manufacturing,Programmer Analyst III
+320,Retail,General Manager
+321,Property,Marketing Manager
+322,Health,Tax Accountant
+323,Property,Biostatistician IV
+324,n/a,Media Manager I
+325,Property,Safety Technician IV
+326,Health,Speech Pathologist
+327,Manufacturing,Developer III
+328,Property,Statistician II
+329,Manufacturing,Environmental Specialist
+330,Manufacturing,Statistician III
+331,Telecommunications,""
+332,Entertainment,Programmer Analyst III
+333,Manufacturing,VP Sales
+334,Health,Recruiting Manager
+335,Financial Services,Account Representative IV
+336,Retail,Senior Sales Associate
+337,Financial Services,VP Sales
+338,Financial Services,Staff Scientist
+339,Financial Services,Senior Editor
+340,Argiculture,Product Engineer
+341,Financial Services,Geologist III
+342,Manufacturing,Executive Secretary
+343,Entertainment,Structural Analysis Engineer
+344,Argiculture,Administrative Assistant IV
+345,Financial Services,Database Administrator I
+346,n/a,Research Assistant III
+347,Telecommunications,Staff Scientist
+348,n/a,Analyst Programmer
+349,Financial Services,Accountant II
+350,Financial Services,Software Engineer IV
+351,Manufacturing,Office Assistant II
+352,IT,Human Resources Manager
+353,Health,Geologist I
+354,n/a,Information Systems Manager
+355,Argiculture,Professor
+356,Property,GIS Technical Architect
+357,Argiculture,Senior Developer
+358,IT,Staff Accountant II
+359,Telecommunications,Account Representative IV
+360,Health,Accountant III
+361,Manufacturing,Developer II
+362,Health,Budget/Accounting Analyst III
+363,Manufacturing,Quality Control Specialist
+364,Health,Automation Specialist IV
+365,n/a,Legal Assistant
+366,Financial Services,Statistician II
+367,Health,Structural Engineer
+368,Entertainment,Web Developer II
+369,Manufacturing,Physical Therapy Assistant
+370,Argiculture,Web Developer IV
+371,Health,Recruiter
+372,IT,Payment Adjustment Coordinator
+373,Retail,GIS Technical Architect
+374,n/a,Payment Adjustment Coordinator
+375,IT,Geologist I
+376,IT,Help Desk Operator
+377,Telecommunications,Tax Accountant
+378,Entertainment,Community Outreach Specialist
+379,n/a,Account Executive
+380,Manufacturing,Geologist I
+381,Financial Services,General Manager
+382,Argiculture,Mechanical Systems Engineer
+383,Health,Editor
+384,Financial Services,Account Representative I
+385,IT,Speech Pathologist
+386,Retail,Marketing Manager
+387,Property,Nurse
+388,Health,Programmer Analyst I
+389,Health,Engineer III
+390,Argiculture,Editor
+391,Entertainment,Junior Executive
+392,Manufacturing,Accounting Assistant IV
+393,Manufacturing,Systems Administrator II
+394,n/a,Administrative Assistant III
+395,n/a,Office Assistant III
+396,IT,Analog Circuit Design manager
+397,IT,""
+398,Manufacturing,Sales Associate
+399,Retail,Quality Control Specialist
+400,IT,Quality Control Specialist
+401,Financial Services,Developer II
+402,Property,Staff Accountant IV
+403,Retail,Web Developer I
+404,n/a,Assistant Professor
+405,Argiculture,Environmental Specialist
+406,Health,Environmental Specialist
+407,n/a,Geologist I
+408,n/a,Geologist III
+409,Property,Office Assistant IV
+410,Manufacturing,Software Test Engineer IV
+411,Property,Technical Writer
+412,Argiculture,Structural Analysis Engineer
+413,n/a,Safety Technician IV
+414,Retail,Nurse Practicioner
+415,Financial Services,Internal Auditor
+416,Financial Services,Help Desk Technician
+417,Telecommunications,Web Designer I
+418,Retail,Operator
+419,IT,Nurse
+420,n/a,General Manager
+421,Argiculture,Research Assistant I
+422,Argiculture,Software Test Engineer I
+423,Argiculture,Media Manager IV
+424,Property,Statistician III
+425,Health,Research Assistant III
+426,Retail,Research Associate
+427,Health,Office Assistant IV
+428,Argiculture,Information Systems Manager
+429,Property,Software Test Engineer III
+430,n/a,Database Administrator III
+431,Entertainment,Business Systems Development Analyst
+432,n/a,VP Quality Control
+433,Manufacturing,Speech Pathologist
+434,Health,Administrative Assistant II
+435,Property,Programmer IV
+436,Retail,Senior Quality Engineer
+437,Financial Services,Automation Specialist II
+438,Entertainment,Librarian
+439,Manufacturing,Account Executive
+440,Property,Editor
+441,Retail,Budget/Accounting Analyst III
+442,Property,Account Representative IV
+443,IT,Editor
+444,IT,Software Engineer II
+445,Argiculture,Legal Assistant
+446,IT,Project Manager
+447,IT,Automation Specialist IV
+448,Financial Services,Web Designer I
+449,Manufacturing,VP Marketing
+450,Telecommunications,Desktop Support Technician
+451,Property,Assistant Professor
+452,n/a,Systems Administrator I
+453,Manufacturing,Staff Scientist
+454,Retail,Analog Circuit Design manager
+455,Manufacturing,Help Desk Technician
+456,n/a,Quality Engineer
+457,Health,Assistant Professor
+458,Health,Web Developer III
+459,Retail,Web Designer III
+460,IT,Tax Accountant
+461,Financial Services,Professor
+462,IT,Account Executive
+463,n/a,Web Designer IV
+464,Health,VP Quality Control
+465,Health,""
+466,Retail,Web Developer IV
+467,Health,Statistician II
+468,Health,Marketing Manager
+469,n/a,Programmer Analyst II
+470,Retail,Tax Accountant
+471,Manufacturing,Quality Engineer
+472,Property,Office Assistant II
+473,Manufacturing,Nurse
+474,Health,Research Nurse
+475,Health,Research Assistant IV
+476,n/a,Business Systems Development Analyst
+477,n/a,Internal Auditor
+478,Property,Human Resources Assistant II
+479,Property,VP Marketing
+480,Argiculture,Help Desk Operator
+481,Entertainment,Nurse
+482,n/a,Biostatistician IV
+483,Argiculture,Assistant Manager
+484,n/a,Mechanical Systems Engineer
+485,Telecommunications,VP Marketing
+486,n/a,Safety Technician II
+487,Retail,Database Administrator IV
+488,IT,Analyst Programmer
+489,Retail,Account Representative IV
+490,n/a,Engineer II
+491,IT,Engineer III
+492,Financial Services,Payment Adjustment Coordinator
+493,Financial Services,Media Manager II
+494,Argiculture,Research Associate
+495,Manufacturing,Office Assistant I
+496,Financial Services,Safety Technician II
+497,IT,Physical Therapy Assistant
+498,Property,Sales Associate
+499,Health,Computer Systems Analyst I
+500,Financial Services,Budget/Accounting Analyst I
+501,Manufacturing,Human Resources Assistant III
+502,Entertainment,Teacher
+503,Financial Services,Web Designer IV
+504,Health,Pharmacist
+505,n/a,Web Developer I
+506,IT,Database Administrator III
+507,Financial Services,Cost Accountant
+508,Argiculture,Help Desk Technician
+509,Health,Programmer II
+510,Retail,Media Manager IV
+511,Retail,Environmental Tech
+512,Health,Staff Accountant IV
+513,Financial Services,Graphic Designer
+514,Health,Engineer IV
+515,Health,Environmental Tech
+516,n/a,Software Test Engineer II
+517,Retail,Research Assistant II
+518,Argiculture,Statistician IV
+519,Financial Services,Physical Therapy Assistant
+520,Property,Automation Specialist IV
+521,Financial Services,Financial Analyst
+522,Health,Programmer IV
+523,Argiculture,""
+524,Financial Services,Accounting Assistant I
+525,Entertainment,Biostatistician II
+526,IT,Biostatistician I
+527,Manufacturing,Structural Engineer
+528,Health,Product Engineer
+529,Retail,Analyst Programmer
+530,Health,Payment Adjustment Coordinator
+531,IT,Business Systems Development Analyst
+532,Financial Services,Accountant I
+533,Property,Database Administrator IV
+534,Argiculture,Recruiter
+535,Health,VP Marketing
+536,IT,Marketing Assistant
+537,Entertainment,Help Desk Operator
+538,Health,Account Representative II
+539,IT,Senior Editor
+540,Retail,Staff Accountant II
+541,IT,Programmer Analyst II
+542,Telecommunications,Professor
+543,Property,Human Resources Manager
+544,Financial Services,Engineer III
+545,IT,Computer Systems Analyst I
+546,Financial Services,Assistant Professor
+547,IT,VP Marketing
+548,Manufacturing,Senior Quality Engineer
+549,n/a,Web Developer IV
+550,Financial Services,Speech Pathologist
+551,Entertainment,Structural Engineer
+552,Retail,Web Designer I
+553,IT,Accounting Assistant III
+554,Health,Staff Scientist
+555,Argiculture,Systems Administrator III
+556,Health,Media Manager I
+557,Health,Design Engineer
+558,Property,Software Test Engineer I
+559,Retail,Geologist III
+560,Manufacturing,Health Coach II
+561,Entertainment,Accountant I
+562,Telecommunications,Senior Quality Engineer
+563,Property,Accountant IV
+564,Financial Services,Office Assistant IV
+565,Manufacturing,Software Test Engineer III
+566,Health,Data Coordiator
+567,Financial Services,Design Engineer
+568,n/a,""
+569,n/a,Technical Writer
+570,Retail,Recruiter
+571,Retail,Accounting Assistant III
+572,Health,Administrative Officer
+573,Telecommunications,Quality Control Specialist
+574,Argiculture,Account Coordinator
+575,Manufacturing,Media Manager III
+576,n/a,Geologist IV
+577,Property,Account Coordinator
+578,Retail,Help Desk Technician
+579,Manufacturing,Staff Accountant II
+580,Entertainment,General Manager
+581,Manufacturing,Software Test Engineer I
+582,Retail,Environmental Specialist
+583,Manufacturing,Programmer Analyst II
+584,Argiculture,VP Product Management
+585,Retail,""
+586,Financial Services,Database Administrator III
+587,Health,Staff Accountant III
+588,Manufacturing,Accountant I
+589,n/a,Software Engineer I
+590,Financial Services,Research Assistant II
+591,Financial Services,Teacher
+592,Retail,Sales Associate
+593,Health,Media Manager III
+594,Property,Information Systems Manager
+595,Property,Physical Therapy Assistant
+596,Argiculture,Director of Sales
+597,n/a,Chief Design Engineer
+598,Entertainment,Internal Auditor
+599,n/a,Programmer III
+600,n/a,Recruiter
+601,Financial Services,Programmer Analyst II
+602,Property,Software Test Engineer II
+603,Property,VP Product Management
+604,Health,Food Chemist
+605,IT,Staff Scientist
+606,Financial Services,Engineer IV
+607,Manufacturing,Computer Systems Analyst IV
+608,Manufacturing,Media Manager IV
+609,Retail,Programmer III
+610,Manufacturing,Software Engineer II
+611,Telecommunications,Media Manager III
+612,Financial Services,Biostatistician IV
+613,Manufacturing,Software Consultant
+614,Manufacturing,Research Assistant II
+615,Telecommunications,Biostatistician II
+616,Manufacturing,Assistant Professor
+617,Financial Services,Operator
+618,n/a,Staff Accountant II
+619,n/a,Tax Accountant
+620,Entertainment,Computer Systems Analyst II
+621,Telecommunications,Programmer III
+622,Financial Services,Budget/Accounting Analyst II
+623,Retail,Project Manager
+624,Financial Services,Recruiting Manager
+625,n/a,Programmer II
+626,Financial Services,Nurse
+627,Health,Nurse
+628,n/a,Sales Associate
+629,Financial Services,Developer III
+630,Financial Services,Administrative Assistant I
+631,Entertainment,Software Test Engineer IV
+632,Telecommunications,Executive Secretary
+633,Financial Services,Actuary
+634,Property,Web Designer I
+635,n/a,Staff Accountant III
+636,Retail,Marketing Assistant
+637,Manufacturing,Safety Technician II
+638,Financial Services,Marketing Assistant
+639,IT,Software Test Engineer IV
+640,Telecommunications,Computer Systems Analyst II
+641,IT,Marketing Manager
+642,n/a,Administrative Officer
+643,Health,Technical Writer
+644,Property,Executive Secretary
+645,Health,Biostatistician II
+646,IT,Account Representative I
+647,Health,Senior Sales Associate
+648,Health,Executive Secretary
+649,n/a,Statistician III
+650,IT,Health Coach II
+651,Health,Statistician III
+652,Health,Social Worker
+653,Property,Product Engineer
+654,Retail,Structural Engineer
+655,Argiculture,Web Designer III
+656,n/a,Quality Control Specialist
+657,Manufacturing,Human Resources Assistant II
+658,Financial Services,Software Test Engineer I
+659,n/a,Account Representative I
+660,Property,Graphic Designer
+661,Health,Teacher
+662,n/a,Research Assistant II
+663,Retail,Web Developer II
+664,Property,Analog Circuit Design manager
+665,Health,VP Sales
+666,Property,Senior Quality Engineer
+667,Entertainment,Quality Engineer
+668,Entertainment,Staff Accountant III
+669,n/a,Environmental Specialist
+670,n/a,Graphic Designer
+671,Entertainment,Account Representative III
+672,Retail,Design Engineer
+673,IT,Executive Secretary
+674,Retail,Database Administrator II
+675,Argiculture,Office Assistant II
+676,Financial Services,Budget/Accounting Analyst III
+677,n/a,Computer Systems Analyst IV
+678,Retail,Administrative Officer
+679,Financial Services,Safety Technician IV
+680,n/a,Nurse
+681,Financial Services,Accountant III
+682,n/a,Marketing Manager
+683,Property,Software Engineer I
+684,Retail,Director of Sales
+685,Telecommunications,Structural Engineer
+686,Argiculture,Desktop Support Technician
+687,Retail,Administrative Assistant IV
+688,Property,Professor
+689,IT,Junior Executive
+690,n/a,Software Test Engineer III
+691,Retail,VP Marketing
+692,Property,VP Sales
+693,Manufacturing,Account Representative I
+694,Financial Services,Automation Specialist IV
+695,Financial Services,Accountant IV
+696,Manufacturing,Payment Adjustment Coordinator
+697,Property,Office Assistant III
+698,Financial Services,Editor
+699,n/a,Statistician II
+700,n/a,Web Designer III
+701,Property,Associate Professor
+702,IT,Structural Analysis Engineer
+703,Manufacturing,Community Outreach Specialist
+704,n/a,Assistant Manager
+705,IT,Community Outreach Specialist
+706,IT,Administrative Assistant I
+707,Health,Quality Engineer
+708,Manufacturing,Accounting Assistant I
+709,Property,Computer Systems Analyst I
+710,IT,Quality Engineer
+711,n/a,Software Test Engineer I
+712,Manufacturing,General Manager
+713,n/a,Statistician I
+714,Manufacturing,Automation Specialist II
+715,Health,Account Executive
+716,Manufacturing,Office Assistant III
+717,Property,Structural Engineer
+718,Financial Services,Statistician IV
+719,Financial Services,Programmer I
+720,Property,Web Developer IV
+721,Financial Services,Senior Financial Analyst
+722,n/a,Safety Technician III
+723,Entertainment,Senior Quality Engineer
+724,IT,Structural Engineer
+725,Retail,Safety Technician II
+726,n/a,Project Manager
+727,Retail,Executive Secretary
+728,Property,Senior Developer
+729,Telecommunications,VP Product Management
+730,Financial Services,Engineer II
+731,Property,Media Manager II
+732,IT,Engineer IV
+733,Manufacturing,GIS Technical Architect
+734,Retail,Technical Writer
+735,Retail,Budget/Accounting Analyst II
+736,Financial Services,Tax Accountant
+737,Financial Services,Media Manager III
+738,Telecommunications,Recruiting Manager
+739,Manufacturing,Media Manager II
+740,Argiculture,Marketing Manager
+741,Property,Senior Editor
+742,IT,Associate Professor
+743,Manufacturing,Automation Specialist I
+744,Financial Services,Systems Administrator III
+745,IT,Administrative Assistant III
+746,IT,Internal Auditor
+747,Telecommunications,Software Test Engineer I
+748,Argiculture,Junior Executive
+749,Retail,Programmer Analyst I
+750,Argiculture,Computer Systems Analyst I
+751,n/a,Director of Sales
+752,Manufacturing,Human Resources Manager
+753,Retail,Staff Accountant IV
+754,Financial Services,GIS Technical Architect
+755,Telecommunications,VP Quality Control
+756,Property,Media Manager III
+757,Health,Legal Assistant
+758,Retail,Research Assistant IV
+759,IT,Legal Assistant
+760,Financial Services,Account Representative II
+761,Entertainment,Associate Professor
+762,Property,Systems Administrator I
+763,Telecommunications,Geologist II
+764,Entertainment,Account Representative IV
+765,n/a,Systems Administrator III
+766,Financial Services,Computer Systems Analyst IV
+767,Telecommunications,Systems Administrator III
+768,Manufacturing,Engineer III
+769,n/a,Database Administrator I
+770,Telecommunications,Research Associate
+771,IT,Senior Sales Associate
+772,Financial Services,Product Engineer
+773,Property,Design Engineer
+774,Manufacturing,Legal Assistant
+775,Manufacturing,Engineer II
+776,Property,Environmental Tech
+777,Health,Professor
+778,Property,Help Desk Operator
+779,Property,Teacher
+780,Manufacturing,Web Designer IV
+781,Property,Systems Administrator III
+782,Health,Biostatistician III
+783,Telecommunications,Legal Assistant
+784,IT,Design Engineer
+785,Financial Services,Project Manager
+786,Retail,Professor
+787,Argiculture,Executive Secretary
+788,Retail,VP Quality Control
+789,Manufacturing,VP Product Management
+790,Manufacturing,Engineer I
+791,Argiculture,Structural Engineer
+792,Retail,Human Resources Manager
+793,Property,Account Executive
+794,Retail,Account Coordinator
+795,Argiculture,Environmental Tech
+796,Financial Services,Research Assistant III
+797,IT,Accounting Assistant II
+798,n/a,Systems Administrator IV
+799,n/a,Programmer Analyst IV
+800,Financial Services,Executive Secretary
+801,Financial Services,Analog Circuit Design manager
+802,Financial Services,Software Engineer III
+803,Financial Services,Mechanical Systems Engineer
+804,Telecommunications,Junior Executive
+805,Manufacturing,Research Assistant I
+806,Financial Services,Information Systems Manager
+807,Telecommunications,Chief Design Engineer
+808,Manufacturing,Computer Systems Analyst II
+809,Entertainment,Web Developer III
+810,Retail,Payment Adjustment Coordinator
+811,Financial Services,Safety Technician III
+812,Health,Software Consultant
+813,Manufacturing,Graphic Designer
+814,n/a,Nurse Practicioner
+815,Manufacturing,Web Developer III
+816,Health,Research Associate
+817,Manufacturing,Developer IV
+818,Financial Services,Compensation Analyst
+819,Property,Internal Auditor
+820,Retail,Computer Systems Analyst II
+821,n/a,Software Engineer III
+822,Financial Services,Human Resources Manager
+823,Health,Associate Professor
+824,Argiculture,Marketing Assistant
+825,Manufacturing,Staff Accountant I
+826,Argiculture,Programmer IV
+827,Financial Services,Technical Writer
+828,n/a,Junior Executive
+829,Health,Administrative Assistant IV
+830,Argiculture,Staff Scientist
+831,n/a,Structural Analysis Engineer
+832,Property,VP Quality Control
+833,IT,Director of Sales
+834,n/a,Recruiting Manager
+835,Financial Services,Community Outreach Specialist
+836,IT,Budget/Accounting Analyst I
+837,IT,Accountant IV
+838,Health,Automation Specialist II
+839,Entertainment,Physical Therapy Assistant
+840,Health,Internal Auditor
+841,n/a,GIS Technical Architect
+842,Property,Budget/Accounting Analyst IV
+843,Telecommunications,Assistant Professor
+844,n/a,Safety Technician I
+845,n/a,Office Assistant II
+846,IT,Help Desk Technician
+847,Property,Software Engineer III
+848,Entertainment,Assistant Media Planner
+849,Financial Services,Computer Systems Analyst III
+850,Property,Engineer II
+851,Property,Accounting Assistant I
+852,Argiculture,GIS Technical Architect
+853,Property,Assistant Manager
+854,Retail,Legal Assistant
+855,Property,Tax Accountant
+856,n/a,Operator
+857,Manufacturing,Teacher
+858,Entertainment,Web Developer IV
+859,Manufacturing,Computer Systems Analyst III
+860,Property,Safety Technician II
+861,Property,Director of Sales
+862,IT,General Manager
+863,Manufacturing,Software Engineer III
+864,Entertainment,Systems Administrator I
+865,Property,Junior Executive
+866,Manufacturing,Desktop Support Technician
+867,Financial Services,Junior Executive
+868,Argiculture,Database Administrator I
+869,Telecommunications,Accounting Assistant II
+870,Entertainment,Account Coordinator
+871,n/a,Senior Sales Associate
+872,Retail,Senior Developer
+873,Entertainment,Safety Technician IV
+874,Retail,Web Designer IV
+875,n/a,Administrative Assistant IV
+876,Retail,VP Sales
+877,Telecommunications,Human Resources Assistant I
+878,n/a,Human Resources Manager
+879,Health,Analog Circuit Design manager
+880,n/a,Research Associate
+881,n/a,Physical Therapy Assistant
+882,n/a,Editor
+883,Property,Health Coach II
+884,Financial Services,Programmer II
+885,Manufacturing,Mechanical Systems Engineer
+886,n/a,Developer IV
+887,Manufacturing,Professor
+888,Manufacturing,Programmer II
+889,Health,Account Representative III
+890,Manufacturing,Web Designer II
+891,Retail,Staff Scientist
+892,Property,Recruiting Manager
+893,Financial Services,Account Coordinator
+894,Property,Staff Scientist
+895,Retail,Administrative Assistant III
+896,Financial Services,Chief Design Engineer
+897,Manufacturing,Senior Developer
+898,n/a,Database Administrator II
+899,Retail,Business Systems Development Analyst
+900,Manufacturing,""
+901,Manufacturing,Project Manager
+902,Manufacturing,Accountant IV
+903,IT,Budget/Accounting Analyst IV
+904,IT,Research Associate
+905,n/a,Developer III
+906,Argiculture,Administrative Assistant III
+907,Manufacturing,Senior Editor
+908,Financial Services,""
+909,Manufacturing,Business Systems Development Analyst
+910,Health,Budget/Accounting Analyst II
+911,IT,Software Engineer I
+912,Financial Services,VP Marketing
+913,Manufacturing,Systems Administrator III
+914,Manufacturing,Web Developer II
+915,IT,Media Manager IV
+916,IT,Web Designer II
+917,Property,Legal Assistant
+918,Property,Analyst Programmer
+919,IT,Biostatistician IV
+920,n/a,Account Representative III
+921,Health,Software Test Engineer III
+922,Entertainment,Budget/Accounting Analyst IV
+923,Manufacturing,Office Assistant IV
+924,Financial Services,Director of Sales
+925,n/a,Staff Scientist
+926,Manufacturing,Database Administrator IV
+927,Health,Structural Analysis Engineer
+928,n/a,Environmental Tech
+929,Financial Services,Legal Assistant
+930,Property,Chief Design Engineer
+931,IT,Database Administrator I
+932,n/a,Software Consultant
+933,IT,Environmental Tech
+934,Health,Registered Nurse
+935,Manufacturing,Research Assistant IV
+936,Retail,Safety Technician III
+937,Financial Services,Paralegal
+938,Argiculture,Engineer IV
+939,Financial Services,Media Manager IV
+940,n/a,Speech Pathologist
+941,Argiculture,Engineer II
+942,Manufacturing,Geological Engineer
+943,Manufacturing,Safety Technician IV
+944,IT,Graphic Designer
+945,Manufacturing,Information Systems Manager
+946,Manufacturing,Nurse Practicioner
+947,Financial Services,Web Developer III
+948,Manufacturing,Chemical Engineer
+949,Financial Services,Business Systems Development Analyst
+950,Argiculture,Programmer I
+951,Retail,Health Coach II
+952,n/a,Media Manager II
+953,Financial Services,Accounting Assistant III
+954,n/a,Help Desk Operator
+955,IT,Accountant II
+956,n/a,Account Representative II
+957,Argiculture,Associate Professor
+958,Financial Services,VP Quality Control
+959,n/a,VP Product Management
+960,IT,Programmer II
+961,Financial Services,Safety Technician I
+962,n/a,Statistician IV
+963,n/a,Design Engineer
+964,n/a,Help Desk Technician
+965,Argiculture,Operator
+966,Telecommunications,Safety Technician II
+967,Retail,Statistician IV
+968,Manufacturing,Human Resources Assistant I
+969,Argiculture,Physical Therapy Assistant
+970,Health,Programmer Analyst III
+971,n/a,Data Coordiator
+972,Health,Quality Control Specialist
+973,Health,Safety Technician III
+974,n/a,Programmer Analyst I
+975,Manufacturing,Administrative Officer
+976,Telecommunications,Software Consultant
+977,Health,VP Product Management
+978,Retail,Associate Professor
+979,Property,Administrative Assistant IV
+980,n/a,Accountant III
+981,Retail,Product Engineer
+982,Financial Services,Account Executive
+983,Financial Services,Web Developer I
+984,n/a,Budget/Accounting Analyst II
+985,Retail,Recruiting Manager
+986,Entertainment,Administrative Assistant I
+987,Argiculture,Nurse
+988,Health,Programmer Analyst II
+989,Health,Engineer II
+990,IT,Developer IV
+991,Property,Developer III
+992,Entertainment,Computer Systems Analyst I
+993,Health,Project Manager
+994,Property,Recruiter
+995,Financial Services,Environmental Tech
+996,Argiculture,Account Executive
+997,Financial Services,Assistant Manager
+998,Health,Operator
+999,Health,Software Test Engineer I
+1000,Health,Systems Administrator IV
+1001,Retail,Teacher
+1002,Retail,Accountant III
+1003,IT,Teacher
+1004,Manufacturing,Tax Accountant
+1005,IT,Software Test Engineer I
+1006,Retail,Geologist II
+1007,Manufacturing,Help Desk Operator
+1008,n/a,Budget/Accounting Analyst IV
+1009,Manufacturing,Accountant III
+1010,Health,Web Developer I
+1011,Manufacturing,Account Representative IV
+1012,Financial Services,Nurse Practicioner
+1013,Manufacturing,Operator
+1014,Manufacturing,Electrical Engineer
+1015,Health,Graphic Designer
+1016,Manufacturing,Editor
+1017,Retail,Quality Engineer
+1018,Financial Services,Developer I
+1019,Health,Safety Technician IV
+1020,Financial Services,Budget/Accounting Analyst IV
+1021,Health,Developer IV
+1022,IT,Computer Systems Analyst II
+1023,n/a,Media Manager III
+1024,Manufacturing,Web Developer I
+1025,Financial Services,Staff Accountant I
+1026,n/a,Associate Professor
+1027,Manufacturing,Civil Engineer
+1028,Financial Services,Human Resources Assistant I
+1029,Manufacturing,Programmer Analyst IV
+1030,n/a,Database Administrator IV
+1031,Manufacturing,Programmer IV
+1032,Manufacturing,Junior Executive
+1033,n/a,Accountant IV
+1034,Property,Quality Engineer
+1035,IT,VP Sales
+1036,Financial Services,Office Assistant III
+1037,Retail,Assistant Professor
+1038,IT,Software Test Engineer III
+1039,Argiculture,Project Manager
+1040,Health,Software Test Engineer IV
+1041,IT,Safety Technician II
+1042,n/a,Automation Specialist IV
+1043,Property,""
+1044,Manufacturing,Marketing Manager
+1045,Property,Statistician IV
+1046,Property,Nurse Practicioner
+1047,Manufacturing,Programmer I
+1048,Manufacturing,Software Test Engineer II
+1049,Health,Media Manager II
